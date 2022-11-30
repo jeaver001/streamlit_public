@@ -4,8 +4,7 @@ matplotlib
 datetime
 yfinance
 streamlit
-dateutil.relativedelta
+dateutil
 mplfinance
 pandas_datareader
 requests
-parser
