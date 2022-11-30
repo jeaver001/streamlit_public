@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+datetime
+yfinanc
+streamlit
+dateutil
+mplfinance
+pandas_datareader
+requests
+dateutil
