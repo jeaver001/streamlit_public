@@ -2,7 +2,7 @@ pandas
 numpy
 matplotlib
 datetime
-yfinanc
+yfinance
 streamlit
 dateutil
 mplfinance
